@@ -15,7 +15,7 @@ html{
 #logo{
     position: relative;
     top: -155px;
-    left: 300px;
+    left: 650px;
     font-family: inherit;
     width: 30px;
     height: 30px;
@@ -31,7 +31,7 @@ html{
      background-color:#ed9158;
     position:absolute;
     border-radius: 50px;
-    left:100px;
+    left:400px;
     top: 200px;
      font-size: 50px;
     text-align: center;
@@ -68,5 +68,5 @@ p{
     position: relative;
     text-align: center;
     top: 370px;
-    left: 280px;
+    left: 600px;
 }
