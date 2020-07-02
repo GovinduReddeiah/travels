@@ -15,7 +15,7 @@ html{
 #logo{
     position: relative;
     top: -155px;
-    left: 650px;
+    left: 630px;
     font-family: inherit;
     width: 30px;
     height: 30px;
@@ -31,7 +31,7 @@ html{
      background-color:#ed9158;
     position:absolute;
     border-radius: 50px;
-    left:400px;
+    left:430px;
     top: 200px;
      font-size: 50px;
     text-align: center;
@@ -55,11 +55,22 @@ html{
 }
 #submit{
     font-size: 20px;
+    border-radius: 10px;
+    position: relative;
+    left: 55px;
+}
+#forgotpassword{
+    font-size: 15px;
+    color: #446ca0;
+    text-shadow: 0px 0px ;
+    position: relative;
+    top: -50px;
+    left: 100px;
 }
 p{
     text-align: center;
     position: relative;
-    top: 350px;
+    top: 300px;
     font-size:25px;
     font-family: cursive;
 }
@@ -67,6 +78,7 @@ p{
     font-size: 20px;
     position: relative;
     text-align: center;
-    top: 370px;
-    left: 600px;
+    top: 300px;
+    left: 630px;
+    border-radius: 10px;
 }
